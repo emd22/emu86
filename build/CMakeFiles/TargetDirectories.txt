@@ -1,0 +1,3 @@
+/home/ethan/Desktop/emu86/build/CMakeFiles/rebuild_cache.dir
+/home/ethan/Desktop/emu86/build/CMakeFiles/edit_cache.dir
+/home/ethan/Desktop/emu86/build/CMakeFiles/emu86.dir
